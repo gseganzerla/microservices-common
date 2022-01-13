@@ -1,0 +1,19 @@
+{
+    "name": "gseganzerla/microservices-common",
+    "description": "Files Microservices Common",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gseganzerla\\MicroservicesCommon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gseganzerla",
+            "email": "g.seganzerla@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
